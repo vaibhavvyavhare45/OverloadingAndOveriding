@@ -17,7 +17,7 @@ public class Demo1 {
 	}
 	public static void main(String[] args) {
 		Demo1 d=new Demo1();
-	//int a=10;
+	     //int a=10;
 		//d.display(null);
 		d.display(10,20,45);
 		

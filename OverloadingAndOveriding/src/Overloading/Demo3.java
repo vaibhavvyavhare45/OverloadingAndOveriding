@@ -10,7 +10,7 @@ public class Demo3 {
 	}
 public static void main(String[] args) {
 	Demo3 d2=new Demo3();
-	d2.m1(15.5f, 0.5f);//not ambiguty
+	//d2.m1(15.5f, 0.5f);//not ambiguty
 	//d2.m1(15.5, 0.5);//ambiguty error
 	
 }
